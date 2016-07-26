@@ -9,5 +9,6 @@ Compiler related links
 Links
 =====
 Resources for Amateur Compiler Writers
+Great references here
 http://c9x.me/compile/bib/
 
